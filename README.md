@@ -1,1 +1,1 @@
-# KiberLife-Design.github.io
+# KiberLife.github.io
